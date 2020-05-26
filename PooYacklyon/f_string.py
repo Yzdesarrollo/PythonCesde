@@ -9,3 +9,5 @@ class Estudiante:
 
 nuevo_estudiante = Estudiante('victor', 'cruz', 17)
 print(f'{nuevo_estudiante}')
+
+
